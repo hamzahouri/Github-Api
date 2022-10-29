@@ -1,3 +1,2 @@
-last modification : 06/10/2022
-the personal infos component is added but it run with errors. and not yet pushed into repository, i'm now
-in page 206
+last modification : 29/10/2022
+ i'm now in "visualizing the organisation mempership" page 212 
